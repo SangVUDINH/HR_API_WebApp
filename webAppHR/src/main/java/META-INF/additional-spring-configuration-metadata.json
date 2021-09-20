@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "com.HR.webapp.apiUrl",
+  "type": "java.lang.String",
+  "description": "A description for 'com.HR.webapp.apiUrl'"
+}]}
